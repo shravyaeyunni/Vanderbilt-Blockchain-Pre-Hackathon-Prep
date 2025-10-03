@@ -7,7 +7,7 @@ contract StringStore {
 
     // constructor sets an initial value
     constructor() {
-        message = "Change this";
+        message = "Merch: Hoodie";
     }
 
     // read the string (view function)
